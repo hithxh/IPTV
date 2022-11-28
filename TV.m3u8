@@ -63,7 +63,7 @@ http://111.20.40.170/PLTV/88888893/224/3221226580/index.m3u8
 http://111.20.40.170/PLTV/88888893/224/3221226805/index.m3u8
 #EXTINF:-1 ,茶频道
 http://111.20.40.170/PLTV/88888893/224/3221226808/index.m3u8
-http://111.11.123.28:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="http://124.220.17.172/fh/KUAILECHUIDIAO.jpg" group-title="钓鱼系列",快乐垂钓
 http://111.20.40.170/PLTV/88888893/224/3221226805/index.m3u8
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="http://124.220.17.172/fh/BAMC4.jpg" group-title="钓鱼系列",四海钓鱼
@@ -96,7 +96,7 @@ http://111.11.123.28:6610/000000001000/5841816227539527643/index.m3u8?channel-id
 #EXTINF:-1 group-title="Hot系列",iHOT爱电竞
 http://111.11.123.28:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="http://124.220.17.172/ai/ayx.png" group-title="Hot系列",iHOT爱院线
-
+http://111.11.123.28:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="http://124.220.17.172/newtv/jingpintiyu.png" group-title="NewTV",NewTV精品体育
 http://111.11.123.28:6610/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="http://124.220.17.172/newtv/jingpinjilu.png" group-title="NewTV",NewTV精品纪录
