@@ -1,5 +1,23 @@
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://124.220.17.172/CCTV/CCTV5.png",CCTV5
 http://111.20.40.170/PLTV/88888893/224/3221226395/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://124.220.17.172/CCTV/CCTV5.png",CCTV5
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://124.220.17.172/CCTV/CCTV5.png",CCTV5
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://124.220.17.172/CCTV/CCTV5.png",CCTV5
+http://124.220.17.172/shijiebei/sjb.php?id=307s
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://124.220.17.172/CCTV/CCTV5.png",CCTV5
+http://111.20.45.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://124.220.17.172/CCTV/CCTV16.png",CCTV16
+http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://124.220.17.172/CCTV/CCTV16.png",CCTV16
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://124.220.17.172/CCTV/CCTV16.png",CCTV16
+http://124.220.17.172/shijiebei/sjb.php?id=508s
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://124.220.17.172/CCTV/CCTV16.png",CCTV16
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://124.220.17.172/CCTV/CCTV16.png",CCTV164K
+http://124.220.17.172/shijiebei/sjb.php?id=509s
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://124.220.17.172/CCTV/CCTV16.png",CCTV16
 http://111.20.40.170/PLTV/88888893/224/3221226921/index.m3u8
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="http://124.220.17.172/CCTV/CCTVfengyunzuqiu.png",风云足球
@@ -22,14 +40,7 @@ http://111.20.40.170/PLTV/88888893/224/3221226975/index.m3u8
 http://111.20.40.170/PLTV/88888893/224/3221226978/index.m3u8
 #EXTINF:-1 ,CCTV电视指南
 http://111.20.40.170/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://124.220.17.172/CCTV/CCTV4.png",CCTV4
-http://111.20.40.170/PLTV/88888893/224/3221226191/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172/CCTV/CCTV1.png",CCTV1
-http://111.20.40.170/PLTV/88888893/224/3221226583/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://124.220.17.172/CCTV/CCTV8.png",CCTV8
-http://111.20.40.170/PLTV/88888893/224/3221226391/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://124.220.17.172/CCTV/CCTV3.png",CCTV3
-http://111.20.40.170/PLTV/88888893/224/3221226397/index.m3u8
+
 #EXTINF:-1 ,欢笑剧场4K
 http://111.20.40.170/PLTV/88888893/224/3221226582/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://124.220.17.172/cctv/CHC1.png" group-title="CHC系列",CHC动作电影
@@ -52,7 +63,13 @@ http://111.20.40.170/PLTV/88888893/224/3221226580/index.m3u8
 http://111.20.40.170/PLTV/88888893/224/3221226805/index.m3u8
 #EXTINF:-1 ,茶频道
 http://111.20.40.170/PLTV/88888893/224/3221226808/index.m3u8
-
+http://111.11.123.28:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="http://124.220.17.172/fh/KUAILECHUIDIAO.jpg" group-title="钓鱼系列",快乐垂钓
+http://111.20.40.170/PLTV/88888893/224/3221226805/index.m3u8
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="http://124.220.17.172/fh/BAMC4.jpg" group-title="钓鱼系列",四海钓鱼
+http://124.220.17.172/migu.php?id=shdy
+#EXTINF:-1 tvg-name="书画频道" tvg-logo="http://124.220.17.172/fh/CCTVPAYFEE37.jpg" group-title="钓鱼系列",书画频道
+http://211.103.180.178:8234/live_hls/hdmi.m3u8
 
 #EXTINF:-1 group-title="Hot系列",精彩影视
 http://111.11.123.28:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
@@ -79,13 +96,7 @@ http://111.11.123.28:6610/000000001000/5841816227539527643/index.m3u8?channel-id
 #EXTINF:-1 group-title="Hot系列",iHOT爱电竞
 http://111.11.123.28:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="http://124.220.17.172/ai/ayx.png" group-title="Hot系列",iHOT爱院线
-http://111.11.123.28:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="http://124.220.17.172/fh/KUAILECHUIDIAO.jpg" group-title="钓鱼系列",快乐垂钓
-http://111.20.40.170/PLTV/88888893/224/3221226805/index.m3u8
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="http://124.220.17.172/fh/BAMC4.jpg" group-title="钓鱼系列",四海钓鱼
-http://124.220.17.172/migu.php?id=shdy
-#EXTINF:-1 tvg-name="书画频道" tvg-logo="http://124.220.17.172/fh/CCTVPAYFEE37.jpg" group-title="钓鱼系列",书画频道
-http://211.103.180.178:8234/live_hls/hdmi.m3u8
+
 #EXTINF:-1 tvg-logo="http://124.220.17.172/newtv/jingpintiyu.png" group-title="NewTV",NewTV精品体育
 http://111.11.123.28:6610/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="http://124.220.17.172/newtv/jingpinjilu.png" group-title="NewTV",NewTV精品纪录
@@ -114,24 +125,7 @@ http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://124.220.17.172/fh/fenghuangzixun.png" group-title="凤凰",凤凰资讯
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5-高清(1)
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5-高清(2)
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5-高清(3)
-http://124.220.17.172/shijiebei/sjb.php?id=307s
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5-高清(6)
-http://111.20.45.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-高清(1)
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-高清(2)
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-高清(3)
-http://124.220.17.172/shijiebei/sjb.php?id=508s
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-高清(6)
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-4K(1)
-http://124.220.17.172/shijiebei/sjb.php?id=509s
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172/cctv/CCTV1.png" group-title="央视(线路1)",CCTV1
 http://124.220.17.172/shtv/ybhg.php?id=184884648
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://124.220.17.172/CCTV/CCTV2.png" group-title="央视(线路1)",CCTV2
@@ -170,6 +164,14 @@ http://124.220.17.172/shtv/ybhg.php?id=2288631710
 http://124.220.17.172/shtv/ybhg.php?id=2236041711
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="http://124.220.17.172/CCTV/CCTVfengyunzuqiu.png" group-title="央视(线路1)",风云足球
 http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8?
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://124.220.17.172/CCTV/CCTV4.png",CCTV4
+http://111.20.40.170/PLTV/88888893/224/3221226191/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172/CCTV/CCTV1.png",CCTV1
+http://111.20.40.170/PLTV/88888893/224/3221226583/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://124.220.17.172/CCTV/CCTV8.png",CCTV8
+http://111.20.40.170/PLTV/88888893/224/3221226391/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://124.220.17.172/CCTV/CCTV3.png",CCTV3
+http://111.20.40.170/PLTV/88888893/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://124.220.17.172/ws/hunan.png" group-title="卫视(线路1)",湖南卫视
 http://124.220.17.172/shtv/ybhg.php?id=3051884917
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://124.220.17.172/ws/zhejiang.png" group-title="卫视(线路1)",浙江卫视
