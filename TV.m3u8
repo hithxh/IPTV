@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://124.220.17.172/CCTV/CCTV5.png" group-title="央视(线路2)",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://124.220.17.172/CCTV/CCTV5.png",CCTV5
 http://111.20.40.170/PLTV/88888893/224/3221226395/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://124.220.17.172/CCTV/CCTV16.png" group-title="央视(线路2)",CCTV16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://124.220.17.172/CCTV/CCTV16.png",CCTV16
 http://111.20.40.170/PLTV/88888893/224/3221226921/index.m3u8
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="http://124.220.17.172/CCTV/CCTVfengyunzuqiu.png" group-title="央视(线路2)",风云足球
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="http://124.220.17.172/CCTV/CCTVfengyunzuqiu.png",风云足球
 http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 ,CCTV央视文化精品
 http://111.20.40.170/PLTV/88888893/224/3221226981/index.m3u8
@@ -38,9 +38,9 @@ http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 #EXTINF:-1 ,CHC
 http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
-#EXTINF:-1 tag-name="上视外语频道" tvg-logo="http://124.220.17.172/shanghai/shanghaiwaiyu.png" group-title="上海",上视外语
+#EXTINF:-1 tag-name="上视外语频道" tvg-logo="http://124.220.17.172/shanghai/shanghaiwaiyu.png",上视外语
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="上海纪实" tvg-logo="http://124.220.17.172/shanghai/shanghaijishi.png" group-title="上海",上海纪实人文
+#EXTINF:-1 tvg-name="上海纪实" tvg-logo="http://124.220.17.172/shanghai/shanghaijishi.png",上海纪实人文
 http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 ,Many
 http://111.20.40.170/PLTV/88888893/224/3221226337/index.m3u8
