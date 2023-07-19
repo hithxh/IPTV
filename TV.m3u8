@@ -1,8 +1,18 @@
 #EXTM3U url-tvg="https://epg.112114.xyz,http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 group-title="THU",清华大学电视台
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8?zbeid
-
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 group-title="历史",历史
+https://iptv.yang-1989.top/api/huya.php?id=20985824
+#EXTINF:-1 group-title="4K",BTV纪实科教 8K
+http://159.75.85.63:6798
+#EXTINF:-1 group-title="电影",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="LoveNrture" group-title="自然",Love Nrture 4K「自然」
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="自然",Wonder
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="自然",Xplore
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="影视",「解说」大象放映室
 https://iptv.yang-1989.top/api/huya.php?id=21277391
 #EXTINF:-1 group-title="影视",「解说」电视剧
@@ -15,8 +25,6 @@ https://iptv.yang-1989.top/api/huya.php?id=24983280
 https://iptv.yang-1989.top/api/huya.php?id=24396428
 #EXTINF:-1 group-title="影视",「解说」动漫•1
 https://iptv.yang-1989.top/api/huya.php?id=19757963
-#EXTINF:-1 group-title="影视",「解说」恐怖电影
-https://iptv.yang-1989.top/api/huya.php?id=23419131
 #EXTINF:-1 group-title="影视",「解说」漫威
 https://iptv.yang-1989.top/api/huya.php?id=17089779
 #EXTINF:-1 group-title="影视",「解说」美剧
@@ -27,14 +35,8 @@ https://iptv.yang-1989.top/api/huya.php?id=25650806
 https://iptv.yang-1989.top/api/huya.php?id=19863777
 #EXTINF:-1 group-title="影视",「录播」 斯诺克•1
 https://iptv.yang-1989.top/api/huya.php?id=880214
-#EXTINF:-1 group-title="少儿",漫画说历史
-https://iptv.yang-1989.top/api/huya.php?id=20985824
-#EXTINF:-1 group-title="4K",BTV纪实科教 8K
-http://159.75.85.63:6798
 #EXTINF:-1 group-title="4K",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-name="LoveNrture" group-title="自然",Love Nrture 4K「自然」
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="4K",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K",苏州4K
@@ -48,6 +50,7 @@ https://iptv.yang-1989.top/api/huya.php?id=17091681
 #EXTINF:-1 group-title="音乐",治愈•放松
 https://iptv.yang-1989.top/api/huya.php?id=21241811
 #EXTINF:-1 group-title="音乐",K-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 #EXTINF:-1 tvg-name="ABCNEWS" group-title="国际",ABC NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="国际",BBC Earth
@@ -202,9 +205,3 @@ https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 group-title="国际",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 group-title="电影",Action Hollywood Movies
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="自然",Wonder
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="自然",Xplore
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8?checkedby:iptvcat.com
