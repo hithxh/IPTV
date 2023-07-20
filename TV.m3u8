@@ -33,26 +33,24 @@ https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijdp
 #EXTINF:-1 group-title="国际新闻",「CA」 CanadaOne
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="自然",BBC Earth
+http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
+#EXTINF:-1 group-title="自然",Love Nrture 4K「自然」
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="自然",Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="自然",Wonder
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="自然",Xplore
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="国际",俄罗斯中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="国际自然",BBC Earth
-http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/阿里郎ARIRANG.png" group-title="国际",阿里郎 Arirang
 http://50.7.238.114:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
 #EXTINF:-1 group-title="国际",Sofy TV
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",DCCouncilChannel
 http://video.oct.dc.gov/out/u/15_12.m3u8
-#EXTINF:-1 group-title="THU",清华大学电视台
-http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8?zbeid
-#EXTINF:-1 group-title="历史",历史
-https://iptv.yang-1989.top/api/huya.php?id=20985824
-#EXTINF:-1 tvg-name="LoveNrture" group-title="自然",Love Nrture 4K「自然」
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="自然",Wonder
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="自然",Xplore
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="影视",「解说」大象放映室
 https://iptv.yang-1989.top/api/huya.php?id=21277391
 #EXTINF:-1 group-title="影视",「解说」电视剧
@@ -75,12 +73,6 @@ https://iptv.yang-1989.top/api/huya.php?id=25650806
 https://iptv.yang-1989.top/api/huya.php?id=19863777
 #EXTINF:-1 group-title="影视",「录播」 斯诺克•1
 https://iptv.yang-1989.top/api/huya.php?id=880214
-#EXTINF:-1 group-title="4K",Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="4K",Fashion 4K「时尚」
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="4K",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="音乐",阅读•学习
 https://iptv.yang-1989.top/api/huya.php?id=21241813
 #EXTINF:-1 group-title="音乐",新歌速递
@@ -91,3 +83,13 @@ https://iptv.yang-1989.top/api/huya.php?id=17091681
 https://iptv.yang-1989.top/api/huya.php?id=21241811
 #EXTINF:-1 group-title="音乐",K-Pop
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 group-title="其它",清华大学电视台
+http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8?zbeid
+#EXTINF:-1 group-title="其它",历史
+https://iptv.yang-1989.top/api/huya.php?id=20985824
+#EXTINF:-1 group-title="其它",BTV纪实科教 8K
+http://159.75.85.63:6798
+#EXTINF:-1 group-title="其它",Fashion 4K「时尚」
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="其它",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
