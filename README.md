@@ -1,4 +1,6 @@
 # IPTV
-https://github.com/youshandefeiyang/live-Url
+https://github.com/Ftindy/IPTV-URL
 
-https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+https://github.com/Kimentanm/aptv
+
+https://github.com/iptv-org/awesome-iptv
