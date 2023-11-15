@@ -13,7 +13,7 @@ dns:
     - 1.1.1.1
     - 114.114.114.114
 proxies:
-  - name: "hy1"
+  - name: hy1
     type: hysteria
     server: 23.95.61.114
     ports: 47000-48000
