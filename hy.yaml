@@ -37,14 +37,11 @@ proxies:
     password: fea6e41d
     sni: www.bing.com
     skip-cert-verify: true
+    recv_window_conn: 115343360
+    recv_window: 461373440
+    disable_mtu_discovery: true
+    fast-open: true
 
-  - name: azure
-    type: hysteria2
-    server: 104.43.170.230
-    port: 35588
-    password: 2f6fd637
-    sni: www.bing.com
-    skip-cert-verify: true
 
 proxy-groups:
   - name: PROXY
@@ -52,7 +49,6 @@ proxy-groups:
     proxies:
       - hy1
       - hy2
-      - azure
       
 rule-providers:
   reject:
