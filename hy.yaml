@@ -17,7 +17,7 @@ proxies:
     type: hysteria
     server: 23.95.61.114
     ports: 47000-48000
-    auth: BAYnp5xeZcJBuc09u3PZKtsCfrIRComJPuMn9saGrsqtca54Wk
+    auth-str: BAYnp5xeZcJBuc09u3PZKtsCfrIRComJPuMn9saGrsqtca54Wk
     alpn:
       - h3
     protocol: udp
@@ -34,7 +34,7 @@ proxies:
     type: hysteria2
     server: 23.95.61.114
     port: 13886
-    password: fea6e41d
+    auth: fea6e41d
     sni: www.bing.com
     skip-cert-verify: true
     recv_window_conn: 115343360
