@@ -17,9 +17,9 @@ proxies:
     type: hysteria
     server: 23.95.61.114
     ports: 47000-48000
-    auth: BAYnp5xeZcJBuc09u3PZKtsCfrIRComJPuMn9saGrsqtca54Wk
+    auth-str: BAYnp5xeZcJBuc09u3PZKtsCfrIRComJPuMn9saGrsqtca54Wk
     alpn:
-      - h3
+      - hysteria
     protocol: udp
     up: 1100
     down: 1100
