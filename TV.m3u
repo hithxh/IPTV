@@ -1,9 +1,6 @@
 #EXTM3U url-tvg="https://epg.112114.xyz,http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 tvg-name="CCGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="国际新闻",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="国际新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png",CGTN Documentary
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CNA.png" group-title="国际新闻",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CNA.png" group-title="国际新闻",CNA
@@ -24,6 +21,10 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="国际新闻",BBC World News
 http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+#EXTINF:-1 tvg-name="CCGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="国际新闻",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="国际新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png",CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 group-title="国际新闻",CNN
 http://ip2121.com:8081/live/cnn/playlist.m3u8
 #EXTINF:-1 group-title="国际新闻",NBC News Now
