@@ -13,23 +13,6 @@ dns:
     - 1.1.1.1
     - 114.114.114.114
 proxies:
-  - name: "hy1"
-    type: hysteria
-    server: 23.95.61.114
-    ports: 47000-48000
-    auth-str: 0ArDIPZnpZzjSsPds6I4XRtm0NnLebjzpbmTNUPBytGKzFsEGl
-    alpn:
-      - h3
-    protocol: udp
-    up: 11
-    down: 55
-    sni: wechat.com
-    skip-cert-verify: true
-    recv_window_conn: 5767168
-    recv_window: 23068672
-    disable_mtu_discovery: true
-    fast-open: true
-
   - name: hy2
     type: hysteria2
     server: 23.95.61.114
@@ -50,7 +33,6 @@ proxy-groups:
   - name: PROXY
     type: select
     proxies:
-      - hy1
       - hy2
       - hw
       
