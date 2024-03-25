@@ -17,7 +17,7 @@ proxies:
     type: hysteria
     server: 23.95.61.114
     ports: 47000-48000
-    auth_str: 0ArDIPZnpZzjSsPds6I4XRtm0NnLebjzpbmTNUPBytGKzFsEGl
+    auth-str: 0ArDIPZnpZzjSsPds6I4XRtm0NnLebjzpbmTNUPBytGKzFsEGl
     alpn:
       - h3
     protocol: udp
