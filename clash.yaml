@@ -17,32 +17,32 @@ proxies:
     type: hysteria
     server: 23.95.61.114
     ports: 47000-48000
-    auth_str: BAYnp5xeZcJBuc09u3PZKtsCfrIRComJPuMn9saGrsqtca54Wk
+    auth_str: 0ArDIPZnpZzjSsPds6I4XRtm0NnLebjzpbmTNUPBytGKzFsEGl
     alpn:
       - h3
     protocol: udp
-    up: 1100
-    down: 1100
+    up: 11
+    down: 55
     sni: wechat.com
     skip-cert-verify: true
-    recv_window_conn: 115343360
-    recv_window: 461373440
+    recv_window_conn: 5767168
+    recv_window: 23068672
     disable_mtu_discovery: true
     fast-open: true
 
   - name: hy2
     type: hysteria2
     server: 23.95.61.114
-    port: 13886
-    password: fea6e41d
+    port: 40580
+    password: 67b4fa0e
     sni: www.bing.com
     skip-cert-verify: true
 
-  - name: azure
+  - name: hw
     type: hysteria2
-    server: 104.43.170.230
-    port: 35588
-    password: 2f6fd637
+    server: 108.174.50.165
+    port: 33548
+    password: 5c868880
     sni: www.bing.com
     skip-cert-verify: true
 
@@ -52,7 +52,7 @@ proxy-groups:
     proxies:
       - hy1
       - hy2
-      - azure
+      - hw
       
 rule-providers:
   reject:
@@ -157,6 +157,11 @@ rules:
   - DOMAIN,yacd.haishan.me,DIRECT
   - DOMAIN,services.googleapis.cn,PROXY
   - DOMAIN-SUFFIX,github.com,PROXY
+  - DOMAIN-SUFFIX,xing.com,DIRECT
+  - DOMAIN-SUFFIX,monster.com,DIRECT
+  - DOMAIN-SUFFIX,stepstone.com,DIRECT
+  - DOMAIN-SUFFIX,alipan.com,DIRECT
+  - DOMAIN-SUFFIX,blog.csdn.net,DIRECT
   - RULE-SET,private,DIRECT
   - RULE-SET,reject,REJECT
   - RULE-SET,icloud,DIRECT
