@@ -34,7 +34,7 @@ proxies:
     type: hysteria2
     server: 23.95.61.114
     port: 40580
-    password: 67b4fa0e
+    auth: 67b4fa0e
     sni: www.bing.com
     skip-cert-verify: true
 
@@ -42,7 +42,7 @@ proxies:
     type: hysteria2
     server: 108.174.50.165
     port: 33548
-    password: 5c868880
+    auth: 5c868880
     sni: www.bing.com
     skip-cert-verify: true
 
